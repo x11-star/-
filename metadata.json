@@ -1,0 +1,6 @@
+{
+  "name": "银盐 - 我的胶片护照",
+  "description": "专为底片摄影爱好者打造的数字化暗房与胶卷护照管理系统，内置大师级 AI 胶片推荐助手和化学显影试拍模拟器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
